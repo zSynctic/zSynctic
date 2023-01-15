@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A Hobby Programmer, likes to advance more in programming and learn more languages, currently focusing in Python.
+A Hobby Programmer, that likes to advance more in programming and learn more languages, currently focusing in Python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
