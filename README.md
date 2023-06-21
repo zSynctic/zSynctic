@@ -40,7 +40,7 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
   
   <p></p>
   
-  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zSynctic)
+  ![visitors](https://vbr.wocr.tk/badge?page_id=zSynctic)
 
   </div>
 </details>
