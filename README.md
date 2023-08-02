@@ -31,7 +31,7 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
     
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zSynctic&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="zSynctic's github streak stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlewhitecloud&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,7043C9,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&line_height=30" alt="littlewhitecloud"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zSynctic&show_icons=true&count_private=true&custom_title=Most%20Use%20Language&bg_color=30,7043C9,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&line_height=30" alt="littlewhitecloud"/>
     </p>
 </p>
   
