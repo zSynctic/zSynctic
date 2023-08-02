@@ -41,7 +41,7 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
     <!--
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zSynctic&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="zSynctic's github stats" />
     -->
-    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=zSynctic&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="zSynctic's github stats" />
+    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=zSynctic&theme=github_dark&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="zSynctic's github stats" />
   </a>
   
   <p></p>
