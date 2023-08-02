@@ -44,10 +44,6 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
     <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=zSynctic&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="zSynctic's github stats" />
   </a>
   
-  <a href="https://github.com/zSynctic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zSynctic&layout=compact&hide_border=true" alt="Top Langs" />
-  </a>
-  
   <p></p>
   
   ![visitors](https://komarev.com/ghpvc/?username=zSynctic&label=Vistors&style=flat-square)
