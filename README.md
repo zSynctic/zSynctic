@@ -44,3 +44,5 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
 
 <br/>
 </p>
+
+<a href="https://www.buymeacoffee.com/zsynctic"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zsynctic&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
