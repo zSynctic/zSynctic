@@ -50,5 +50,5 @@ A Hobby Programmer, that likes to advance more in programming and learn more lan
 <p align="center">
 <strong>Support me on my journey</strong> <br />
 <br/>
-<a href="https://www.buymeacoffee.com/zsynctic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/zsynctic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 58px !important;width: 215px !important;" ></a>
 </p>
