@@ -4,7 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A Hobby Programmer, that likes to advance more in programming and learn more languages, currently focusing in Python.
+A Hobby Programmer Passionate about Creating Elegant UI Apps with a Drive to Advance in Programming. Currently Focusing in Python.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
