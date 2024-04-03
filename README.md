@@ -58,5 +58,5 @@ A Hobby Programmer Passionate about Creating Elegant UI Apps with a Drive to Adv
 <br> <h2 align="center"> MY SOCIALS </h2>
 <br> <p align="center">
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/zSynctic)
-[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape)
+[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/xSynctic)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/zsynctic/)
