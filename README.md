@@ -54,3 +54,9 @@ A Hobby Programmer Passionate about Creating Elegant UI Apps with a Drive to Adv
 <br/>
 <a href="https://www.buymeacoffee.com/zsynctic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 58px !important;width: 215px !important;" ></a>
 </p>
+
+<br> <h2 align="center"> MY SOCIALS </h2>
+<br> <p align="center">
+[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/zSynctic)
+[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zsynctic/)
