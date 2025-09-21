@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A Hobby Programmer Passionate about Creating Elegant UI Apps with a Drive to Advance in Programming. Currently Focusing in Python.
+A Computer Science student passionate about building elegant UI apps and exploring AI. Follow me for innovative projects and programming insights!
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
