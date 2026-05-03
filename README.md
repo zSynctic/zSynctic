@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-A Computer Science student passionate about building elegant UI apps and exploring AI. Follow me for innovative projects and programming insights!
+A Computer Science student passionate about exploring AI and building elegant UI apps. Follow me for innovative projects and programming insights!
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
