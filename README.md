@@ -52,7 +52,7 @@ A Computer Science student passionate about exploring AI and building elegant UI
 <p align="center">
 <strong>Support me on my journey</strong> <br />
 <br/>
-<a href="https://zclicker.com/" target="_blank"></a>
+<a href="https://zclicker.com/"></a>
 </p>
 
 <br> <h2 align="center"> MY SOCIALS </h2>
