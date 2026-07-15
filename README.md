@@ -52,7 +52,7 @@ A Computer Science student passionate about exploring AI and building elegant UI
 <p align="center">
 <strong>Support me on my journey</strong> <br />
 <br/>
-<a href="https://www.buymeacoffee.com/zsynctic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 58px !important;width: 215px !important;" ></a>
+<a href="https://zclicker.com/" target="_blank"></a>
 </p>
 
 <br> <h2 align="center"> MY SOCIALS </h2>
